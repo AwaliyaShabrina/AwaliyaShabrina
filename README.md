@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AwaliyaShabrina/AwaliyaShabrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying on Biomedical Engineering Gadjah Mada University
 - 🔍 Currently interested in Data Science and trying to explore Artificial Intelligence
 - 🌱 Medical technology enthusiast
